@@ -1,5 +1,5 @@
 {
-  "name": "fis-parser-node-sass",
+  "name": "fis-parser-node-sass-qt",
   "description": "A parser plugin for fis to compile sass file.",
   "version": "1.0.1",
   "author": "FIS Team <fis@baidu.com>",
@@ -11,8 +11,8 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:fex-team/fis-parser-node-sass.git",
-    "web": "https://github.com/fex-team/fis-parser-node-sass.git"
+    "url": "git@github.com:zyxdick6/fis-parser-node-sass-qt.git",
+    "web": "https://github.com/zyxdick6/fis-parser-node-sass-qt.git"
   },
   "engines": {
     "node": ">=0.8.0"
